@@ -1,0 +1,7 @@
+git config —global user.email //it is used for user email
+git config —global user.name //it is used for username
+git config —list //it use for check repository email or name
+git init // check the initialization
+git config --help //it used for command
+git status // it used for check the status 
+git add filename // it used for track the file 
